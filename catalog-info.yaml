@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: basic-openapi
+  annotations:
+    github.com/project-slug: marvin-corea-cvshealth/basic-openapi
+spec:
+  type: other
+  lifecycle: unknown
+  owner: devsecops
